@@ -1,10 +1,18 @@
-# Hi, I’m Madhav Nama 👋
+<div align="center">
+
+# Madhav Nama 👋
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2400&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=AI+%26+ML+Undergraduate;Data+Analytics+%26+Quality+Assurance;Building+Practical+Web+Projects" alt="Typing animation: AI and ML undergraduate, data analytics and quality assurance, building practical web projects" />
+
+</div>
 
 **Computer Science undergraduate specializing in AI & Machine Learning** at JECRC University, with hands-on project experience across data analysis, frontend development, and quality-focused problem solving.
 
 I enjoy turning research and complex information into clear, usable interfaces and insights. I’m interested in opportunities across **Data Analytics** and **Quality Assurance**, and I continue to explore AI and emerging technology.
 
 [GitHub](https://github.com/madhavnama0304) · [LinkedIn](https://linkedin.com/in/madhav0304)
+
+---
 
 ## Featured projects
 
